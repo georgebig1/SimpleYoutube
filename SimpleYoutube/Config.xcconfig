@@ -1,0 +1,11 @@
+//
+//  Config.xcconfig
+//  SimpleYoutube
+//
+//  Created by George Tseng on 2025/5/7.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+YOUTUBE_API_KEY=your_api_key_here
